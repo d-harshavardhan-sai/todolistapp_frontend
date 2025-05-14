@@ -1,0 +1,1 @@
+export const API_URL = 'https://todolistapp-backend-s73m.onrender.com/'
